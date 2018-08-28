@@ -1,0 +1,14 @@
+{
+  "name": "wee3_server",
+  "version": "1.0.0",
+  "description": "week3 lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"in node index.js\""
+  },
+  "author": "Arunbaby",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
